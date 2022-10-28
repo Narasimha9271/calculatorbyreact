@@ -1,0 +1,17 @@
+button{
+  font-family: sans-serif;
+  margin-top: 10px;
+  margin-right: 8px;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+  padding: 5px 8px;
+  transition: opacity 0.15s;
+  vertical-align: top;
+}
+
+.reset{
+  background-color: rgb(255, 123, 0);
+  color: white;
+  border-color: white;
+}
